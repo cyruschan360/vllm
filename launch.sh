@@ -1,6 +1,7 @@
 #!/bin/bash
 
 #pip install autoawq
+#pip install fschat
 
 #nohup bash ./start.sh &
 #disown -h
